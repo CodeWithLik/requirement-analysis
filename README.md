@@ -71,12 +71,6 @@ Use Case Diagrams are visual representations of interactions between system user
 - Show relationships between actors and use cases
 - Provide a high-level overview of system requirements
 
-### Use Case Diagram for Booking System
-
-The following diagram shows the interactions between users (customers, admin) and the booking system:
-![Image](https://github.com/user-attachments/assets/7c9acde1-1491-447b-a9a1-22bdba1523ef)
-
-
 ## Acceptance Criteria
 
 Acceptance Criteria are conditions that must be met for a feature to be considered complete. They help:
