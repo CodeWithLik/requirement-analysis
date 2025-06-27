@@ -70,7 +70,8 @@ Use Case Diagrams are visual representations of interactions between system user
 - Identify system functionality
 - Show relationships between actors and use cases
 - Provide a high-level overview of system requirements
-![alx-booking-uc](https://github.com/user-attachments/assets/12732cc8-c2b6-4808-a368-d788d8433f7f)
+![alx-booking-uc png](https://github.com/user-attachments/assets/e0bc3cf5-ce1d-43ab-bd00-cb45341d8878)
+
 
 
 
