@@ -74,7 +74,7 @@ Use Case Diagrams are visual representations of interactions between system user
 ### Use Case Diagram for Booking System
 
 The following diagram shows the interactions between users (customers, admin) and the booking system:
-![image](https://github.com/user-attachments/assets/14a65525-7133-4e3c-b588-1695b74d5676)
+![Image](https://github.com/user-attachments/assets/7c9acde1-1491-447b-a9a1-22bdba1523ef)
 
 
 ## Acceptance Criteria
